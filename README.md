@@ -1,1 +1,1 @@
- MLFLOW implememnted on various ML algorithms
+ MLFLOW implemented on various ML algorithms
